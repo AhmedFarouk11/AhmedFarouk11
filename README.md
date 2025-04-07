@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Ahmed!
 
-🎯 Passionate about web dev and AI | 💻 JavaScript • Html • Css• Angular
+🎯 A passionate Front-End Developer with a love for clean code, performance, and great UI/UX.  
+💡 Currently exploring Web Development, Angular, and AI technologies.  
 
-## 🧰 Languages & Tools – Front-End (Angular Track)
+---
+
+## 🧰 Tech Stack – Front-End (Angular Focus)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,22 +24,31 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub followers](https://img.shields.io/github/followers/nora-dev?label=Follow&style=social)
-### 🎨 Front-End
+![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)
 
-- **Framework**: Angular
-- **Languages**: TypeScript, JavaScript, HTML, CSS, SCSS
-- **State Management**: NgRx, RxJS
-- **Build Tools**: Webpack, NPM
-- **Design Tools**: Figma
+---
 
-### 🔧 Dev Tools
+## 🎨 Specialties & Interests
 
-- VS Code, Git, GitHub, Chrome DevTools
+- 🧠 **Frameworks & Libraries**: Angular, RxJS, NgRx
+- 💻 **Languages**: TypeScript, JavaScript, HTML5, CSS3, SCSS
+- ⚙️ **Build Tools**: Webpack, NPM
+- 🖌️ **Design Tools**: Figma, Adobe XD
+- 🛠️ **Dev Tools**: VS Code, Git, GitHub, Chrome DevTools
+- 🤖 **Exploring**: AI + Front-End Integration
 
+---
 
-## 🖼️ About Me
+## 🖼️ A Bit of My Dev Vibe
 ![Fun GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+---
+
 ## 📫 Let's Connect!
-[🌐 Website](https://nora.dev) | [💼 LinkedIn](https://linkedin.com/in/ahmed-farook)
+
+[🌐 Portfolio](https://your-website.com)  
+[💼 LinkedIn](https://linkedin.com/in/ahmed-farook)  
+[📧 Email](mailto:youremail@example.com)  
+[🐙 GitHub](https://github.com/your-github-username)
+
+
