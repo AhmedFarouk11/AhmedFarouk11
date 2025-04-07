@@ -10,4 +10,4 @@
 ![Fun GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 📫 Let's Connect!
-[🌐 Website](https://nora.dev) | [💼 LinkedIn](https://linkedin.com/in/nora-dev)
+[🌐 Website](https://nora.dev) | [💼 LinkedIn](https://linkedin.com/in/ahmed-farook)
