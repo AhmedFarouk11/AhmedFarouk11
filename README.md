@@ -17,3 +17,8 @@ Currently working on: [BBS Company]
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/VersionControl-Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/Repo-GitHub-black?logo=github)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
