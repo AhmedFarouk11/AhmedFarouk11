@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nora!
+# 👋 Hi, I'm Ahmed!
 
-🎯 Passionate about web dev and AI | 💻 JavaScript • Python • React
+🎯 Passionate about web dev and AI | 💻 JavaScript • Html • Css• Angular
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
